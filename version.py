@@ -1,9 +1,9 @@
-short_name = "FT engine"
+short_name = "FT Engine"
 name = "FT Engine"
 major = 1
 minor = 0
 patch = 0
-status = "dev"
+status = "stable"
 module_config = ""
 website = ""
-docs = "latest"
+docs = "4.4"
