@@ -1,7 +1,7 @@
 short_name = "FT Engine"
 name = "FT Engine"
-major = 1
-minor = 0
+major = 4
+minor = 4
 patch = 1
 status = "stable"
 module_config = ""
