@@ -18,8 +18,7 @@ name is available.
 
 ## Project Founders
 
-    Juan Linietsky (reduz)
-    Ariel Manzur (punto-)
+    FourTimeStudio (Bendippok)
 
 ## Lead Developer
 
